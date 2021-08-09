@@ -2,6 +2,8 @@
 A web based application makes some functions like sending mails with or without attachments , receiving mail , deleting mail to trash ,adding contacts, edit these contacts, searching for contact or mail and filtering .  
 Using vue.js, vuetify, spring boot and design patterns.
 
+you must make project first and replace its folders and files with these folders and files.
+
 ![sign in 1](https://user-images.githubusercontent.com/54478282/128617418-547ce1da-da0b-4a9e-a219-c4f3fb4475d8.PNG)
 ![sign up 1](https://user-images.githubusercontent.com/54478282/128617426-49c6f758-9a38-4f48-913b-7c7db9c845e9.PNG)
 ![sign in 2](https://user-images.githubusercontent.com/54478282/128617423-ae8c064b-e20d-4def-a4f1-ac6e3edf02a6.PNG)
